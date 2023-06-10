@@ -22,7 +22,7 @@
   "dependencies": {
     "@actions/github": "^5.0.0",
     "@ethereumjs/common": "^2.6.2",
-    "@ethereumjs/vm": "^5.7.1",
+    "@ethereumjs/vm": "^6.4.2",
     "@nkp/delay": "^1.0.3",
     "@nkp/kv": "0.0.4",
     "@nkp/linked-list": "^1.0.0",
