@@ -20,7 +20,7 @@
     "lint:check": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@actions/github": "^5.0.0",
+    "@actions/github": "^6.0.0",
     "@ethereumjs/common": "^2.6.2",
     "@ethereumjs/vm": "^5.7.1",
     "@nkp/delay": "^1.0.3",
@@ -36,7 +36,7 @@
     "extract-zip": "^2.0.1",
     "multihashes": "^4.0.3",
     "solc": "^0.8.12",
-    "web3": "^1.7.1",
+    "web3": "^4.0.1",
     "web3-utils": "^1.7.1",
     "winston": "^3.6.0",
     "yargs": "^17.3.1"
