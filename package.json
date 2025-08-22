@@ -22,7 +22,7 @@
   "dependencies": {
     "@actions/github": "^5.0.0",
     "@ethereumjs/common": "^2.6.2",
-    "@ethereumjs/vm": "^5.7.1",
+    "@ethereumjs/vm": "^6.0.0",
     "@nkp/delay": "^1.0.3",
     "@nkp/kv": "0.0.4",
     "@nkp/linked-list": "^1.0.0",
@@ -36,8 +36,8 @@
     "extract-zip": "^2.0.1",
     "multihashes": "^4.0.3",
     "solc": "^0.8.12",
-    "web3": "^1.7.1",
-    "web3-utils": "^1.7.1",
+    "web3": "^4.0.1",
+    "web3-utils": "^1.10.1",
     "winston": "^3.6.0",
     "yargs": "^17.3.1"
   },
